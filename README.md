@@ -1,4 +1,4 @@
-## Ola me chamo Cézar Costa
+## Olá me chamo Cézar Costa
 
 - 💻 Estou cursando faculdade de ADS
 
