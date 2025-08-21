@@ -1,6 +1,6 @@
 ## Olá me chamo Cézar Costa
 
-- 💻 Estou cursando faculdade de ADS
+- 💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Unifavip Wyden
 
 - 📫 contate-me no email: cezarcosta309@gmail.com 
 
